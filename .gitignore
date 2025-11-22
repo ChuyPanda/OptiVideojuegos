@@ -1,0 +1,48 @@
+# --- Carpetas que NO van al repositorio (Unreal Engine) ---
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# --- Archivos temporales de IDEs ---
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Visual Studio Code
+.vscode/
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+
+# --- Archivos del sistema ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Archivos temporales ---
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
+*.cache
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# --- Archivos de compilación o binarios ---
+*.exe
+*.dll
+*.pdb
+*.lib
+*.app
+*.dylib
+*.so
